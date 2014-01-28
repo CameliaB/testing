@@ -1,3 +1,3 @@
 testing
 =======
-Dossier test
+Dossier test, ajouter les informations d'utilisateur
